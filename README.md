@@ -18,6 +18,8 @@ Run local ai models in docker containers
 
 # [AutoGen | AutoGen](https://microsoft.github.io/autogen/) - autogen, llm
 Create agents (llm's) that work toghether, one can conveniently build LLM workflows.
+* credits: Niels
 
 # [AutoGen Studio](https://microsoft.github.io/autogen/blog/2023/12/01/AutoGenStudio/) - autogen, llm
 A GUI for Autogen
+* credits: Niels
